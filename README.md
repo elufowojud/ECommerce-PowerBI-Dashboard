@@ -1,7 +1,7 @@
 E-Commerce Sales & Revenue Dashboard (Power BI)
 Project Overview
 This project features an interactive Power BI dashboard designed to analyze e-commerce performance across $13.59M in total revenue and 99K orders. The report provides key business insights into revenue growth, product category performance, monthly sales trends, and customer payment preferences.
------
+----
 Key Technical Features
 DAX Measures: Calculated custom key performance indicators including Total Revenue, Average Order Value, and Total Orders.
 
